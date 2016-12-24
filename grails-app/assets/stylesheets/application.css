@@ -1,0 +1,7 @@
+/* This is a CSS file with its top level require directives 
+*= require bootstrap/bootstrap.min.css
+*= require bootstrap/bootstrap-tokenfield.css
+= require bootstrap/bootstrap-multiselect.css
+*= require jquery/jquery-ui.css
+*= require custom/menu.css
+*/

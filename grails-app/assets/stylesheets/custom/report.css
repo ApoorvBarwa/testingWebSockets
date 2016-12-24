@@ -1,0 +1,3 @@
+*= require dataTables/jquery.dataTables.min
+*= require dataTables/dataTables.tableTools
+*= require dataTables/nav
